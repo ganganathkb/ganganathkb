@@ -48,10 +48,10 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
-
 ###
 
 <h2 align="left">📈 GitHub Analytics</h2>
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZhZHV5am9tNzhkMWxxMGt5Nmh1MGVqOHNveXhveHhqMWpsMWQ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"/>
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ganganathkb&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
@@ -80,8 +80,10 @@
 ###
 
 <div align="center">
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3RoaDMycDdjajF3eDIzejFwb2l5dmFhNjM4aTFtZjEybTVmbG5qaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" >
+</div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ganganathkb&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-  <img src="https://raw.githubusercontent.com/ganganathkb/ganganathkb/output/snake.svg" alt="Snake animation" />
 </div>
 
 <h2 align="left">🌐 Connect With Me</h2>
