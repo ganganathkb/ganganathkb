@@ -1,15 +1,15 @@
-# 👋 Hello, I'm [Your Name]  
+# 👋 Hello, I'm Ganganath Kesara
 
-🎓 **Undergraduate in [Your Degree Program]**  
+🎓 **Undergraduate in Computing & Information Systems**  
 🏛️ **Sabaragamuwa University of Sri Lanka**  
 📍 **Belihuloya, Sri Lanka**  
-💡 Passionate about **AI | Web Development | Data Science** *(customize your interests)*  
-🌱 Currently learning **Python, React, or Machine Learning** *(update as needed)*  
-🔭 Working on **[Your Current Project + Link]**  
+💡 Passionate about **AI | Web Development | Data Science | Robotics**
+🌱 Currently learning **HTML, React, CSS, JavaScript** 
+🔭 Working on **Web Project**  
 
 📫 **Reach me:**  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganganathkb@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ganganath-kesara-888870213/))  
 
 ---
 
