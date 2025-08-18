@@ -1,56 +1,65 @@
-# 👋 Hello, I'm Ganganath Kesara
+<h2 align="left">👋 Hi, I’m Ganganath Kesara!<br><br>🎓 Undergrad in Computing & Information Systems at Sabaragamuwa University ofSri Lanka</h2>
 
-🎓 **Undergraduate in Computing & Information Systems**  
-🏛️ **Sabaragamuwa University of Sri Lanka**  
-📍 **Belihuloya, Sri Lanka**  
-💡 Passionate about **AI | Web Development | Data Science | Robotics**      
-🌱 Currently learning **HTML, React, CSS, JavaScript**  
-🔭 Working on **Web Project**  
+###
 
-📫 **Reach me:**  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+<h4 align="left">💻 AI & Web Dev Enthusiast | Python | Java | React | Open Source Contributor<br>📊 Passionate About Data Analytics & Machine Learning | Building Intelligent Solutions<br>🌐 Exploring the Full Spectrum of IT | Forever Curious, Forever Learning</h4>
 
----
+###
 
-## 🛠️ **Technical Skills**  
+<h3 align="left">🎯 Goal:</h3>
 
-### **Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+###
 
-### **Web & Database**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">Contribute to open-source projects in Sri Lanka.</p>
 
-### **Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+</div>
 
-## 📂 **Featured Projects**  
+###
 
-1. **[University Management System](https://github.com/yourusername/project)**  
-   - A web-based system for managing student records (Java/MySQL).  
-   ![Tech](https://img.shields.io/badge/Stack-Java%20%7C%20Servlet%20%7C%20MySQL-blue)  
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI0b21reTJpcncwZzFmbnF6dGwzdjR0dG1iZzZiam82azBzZnpkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"  />
 
-2. **[AI-Based Sri Lankan Tourism Guide](https://github.com/yourusername/project)**  
-   - Recommends travel spots using NLP (Python/Flask).  
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganganathkb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ganganathkb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 📊 **GitHub Stats**  
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)  
+###
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)  
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
 
----
+###
 
-## 🌟 **About Me**  
-- 🔧 **Hackathons:** Participated in **SLIIT CodeFest** *(if applicable)*.  
-- 📚 **Courses:** Completed **Coursera’s Python for Everybody** *(customize)*.  
-- 🎯 **Goal:** Contribute to open-source projects in Sri Lanka.  
+<br clear="both">
 
-📜 **Quote:** *"Code is poetry."* *(or your favorite quote)*  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganganathkb/ganganathkb/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganganathkb/ganganathkb/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ganganathkb/ganganathkb/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ganganathkb.ganganathkb&"  />
+</div>
+
+###
