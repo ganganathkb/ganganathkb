@@ -8,7 +8,7 @@
 🔭 Working on **Web Project**  
 
 📫 **Reach me:**  
-[![Gmail](https://thenounproject.com/icon/email-7081207/)](mailto:ganganathkb@gmail.com)  
+[![Gmail](https://www.freepik.com/icon/send-mail_10505398#fromView=search&page=1&position=2&uuid=74ac58de-6c89-464a-aeff-16693855e4b5)](mailto:ganganathkb@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganganath-kesara-888870213)  
 
 ---
