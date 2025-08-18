@@ -8,7 +8,7 @@
 🔭 Working on **Web Project**  
 
 📫 **Reach me:**  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganganathkb@gmail.com)  
+[![Gmail](<i class="fi fi-br-envelope-dot"></i>)](mailto:ganganathkb@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganganath-kesara-888870213)  
 
 ---
