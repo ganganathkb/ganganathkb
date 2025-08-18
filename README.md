@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   
   <!-- Web Development -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   
@@ -53,19 +55,6 @@
 
 ###
 
-<h2 align="left">🌐 Connect With Me</h2>
-
-<div align="left">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
-###
-
 <h2 align="left">🎯 Goals </h2>
 
 - 🏆 Complete 3+ open source contributions
@@ -80,3 +69,16 @@
   <img src="https://komarev.com/ghpvc/?username=ganganathkb&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
   <img src="https://raw.githubusercontent.com/ganganathkb/ganganathkb/output/snake.svg" alt="Snake animation" />
 </div>
+
+<h2 align="left">🌐 Connect With Me</h2>
+
+<div align="left">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+###
