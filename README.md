@@ -5,6 +5,8 @@
 
 <h2 align="left">🌟 About Me</h2>
 
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZhZHV5am9tNzhkMWxxMGt5Nmh1MGVqOHNveXhveHhqMWpsMWQ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"/>
+
 🎓 **Computing & Information Systems Undergraduate** At Sabaragamuwa University of Sri Lanka  
 💡 **Passionate Technologist** specializing in AI, Web Development & Data Analytics  
 🚀 **Open Source Contributor** | Building solutions with Python, Java & MERN Stack  
@@ -51,7 +53,6 @@
 ###
 
 <h2 align="left">📈 GitHub Analytics</h2>
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZhZHV5am9tNzhkMWxxMGt5Nmh1MGVqOHNveXhveHhqMWpsMWQ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"/>
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ganganathkb&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
