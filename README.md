@@ -3,8 +3,8 @@
 🎓 **Undergraduate in Computing & Information Systems**  
 🏛️ **Sabaragamuwa University of Sri Lanka**  
 📍 **Belihuloya, Sri Lanka**  
-💡 Passionate about **AI | Web Development | Data Science | Robotics**
-🌱 Currently learning **HTML, React, CSS, JavaScript** 
+💡 Passionate about **AI | Web Development | Data Science | Robotics** 
+🌱 Currently learning **HTML, React, CSS, JavaScript**  
 🔭 Working on **Web Project**  
 
 📫 **Reach me:**  
