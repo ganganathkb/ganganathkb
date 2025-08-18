@@ -1,64 +1,106 @@
-<h2 align="left">👋 Hi, I’m Ganganath Kesara!<br><br>🎓 Undergrad in Computing & Information Systems at Sabaragamuwa University of Sri Lanka</h2>
+<h1 align="center">👨‍💻 Welcome to My Digital Hub!</h1>
+<h3 align="center">Ganganath Kesara | AI & Full-Stack Developer</h3>
 
 ###
 
-<h4 align="left">💻 AI & Web Dev Enthusiast | Python | Java | React | Open Source Contributor<br>📊 Passionate About Data Analytics & Machine Learning | Building Intelligent Solutions<br>🌐 Exploring the Full Spectrum of IT | Forever Curious, Forever Learning</h4>
+<h2 align="left">🌟 About Me</h2>
+
+🎓 **Computing & Information Systems Undergraduate** @ Sabaragamuwa University, Sri Lanka  
+💡 **Passionate Technologist** specializing in AI, Web Development & Data Analytics  
+🚀 **Open Source Contributor** | Building solutions with Python, Java & MERN Stack  
+🌱 **Currently Exploring** Machine Learning, Cloud Computing & IoT  
+📫 **Let's Connect:** [LinkedIn](#) | [Email](mailto:your.email@example.com)
 
 ###
 
-<h3 align="left">🎯 Goal:</h3>
-
-###
-
-<p align="left">Contribute to open-source projects in Sri Lanka.</p>
-
-###
-
-<h3 align="left">✨ Skills</h3>
-
-###
+<h2 align="left">🛠 Tech Stack</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  
+  <!-- Web Development -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  
+  <!-- Data Science -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI0b21reTJpcncwZzFmbnF6dGwzdjR0dG1iZzZiam82azBzZnpkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif"  />
+<h2 align="left">📈 GitHub Analytics</h2>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ganganathkb&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ganganathkb&theme=radical" alt="GitHub Streak" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganganathkb&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+</div>
+
+###
+
+<h2 align="left">🔥 Featured Projects</h2>
+
+🤖 **[AI Tourism Guide for Sri Lanka](https://github.com/your-repo)**  
+`Python` `NLP` `Flask` `Machine Learning`  
+*Recommendation system for local travelers using sentiment analysis*
+
+🌐 **[University Management System](https://github.com/your-repo)**  
+`Java` `MySQL` `Servlet` `JSP`  
+*Web-based student records management system*
+
+📊 **[Data Visualization Dashboard](https://github.com/your-repo)**  
+`React` `D3.js` `Python` `REST API`  
+*Interactive analytics platform for business intelligence*
+
+🛒 **[E-commerce Microservices](https://github.com/your-repo)**  
+`Spring Boot` `Docker` `React` `MongoDB`  
+*Cloud-native application with payment integration*
+
+###
+
+<h2 align="left">🌐 Connect With Me</h2>
+
+<div align="left">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://medium.com/@yourprofile">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</div>
+
+###
+
+<h2 align="left">🎯 Goals for 2024</h2>
+
+- 🏆 Complete 3+ open source contributions
+- 📚 Earn AWS Cloud Practitioner certification
+- 🤖 Build an end-to-end ML project with deployment
+- 🌱 Mentor junior developers in my university
+- 🚀 Participate in 2+ hackathons
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganganathkb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ganganathkb&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ganganathkb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://komarev.com/ghpvc/?username=ganganathkb&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/ganganathkb/ganganathkb/output/snake.svg" alt="Snake animation" />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ganganathkb/ganganathkb/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ganganathkb.ganganathkb&"  />
-</div>
-
-###
