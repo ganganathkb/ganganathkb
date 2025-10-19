@@ -90,7 +90,7 @@
 <h2 align="left">🌐 Connect With Me</h2>
 
 <div align="left">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/ganganath-kesara-888870213">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your.email@example.com">
